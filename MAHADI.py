@@ -1,6 +1,1 @@
-import os
-try:
-    import requests
-except ImportError:
-    print('\n [✓] installing requests !...\n')
-    os.system('pip install requests')
+
